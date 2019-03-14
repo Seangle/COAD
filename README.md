@@ -6,8 +6,8 @@ Just a place to post the code I wrote for this class, and possibly even to post 
 - C code to x86 Assembly (to help learn MIPS Assembly)
 - MIPS Assembly (todo, help learn Assembly)
 - BISC Assembly (todo, for my group project)
-- VHDL for the microprocessor (todo, for group project)
-- Memory Loader (todo, for group project)
+- VHDL for the microprocessor (todo? not sure if I can share, for group project)
+- Memory Loader (for group project)
 - BISC Assembler (todo, for group project)
 
 ### Writing C code and seeing how it looks in x86 Assembly
@@ -25,8 +25,8 @@ TODO - BISC Assembly written by me, for the microprocessor for testing.
 TODO - Might not get posted since it would provide future students taking the course our own work, but I'll see what I can do.
 
 ### Memory Loader
-- memLoad.py  
-memLoad.py is a simple script used to automate the process of recieving a binary file and loading it into BISC's memory. This task is done by modifying the actual VHDL file that contains the memory unit.
+- loader.py  
+loader.py is a simple script used to automate the process of recieving a binary file and loading it into BISC's memory. This task is done by modifying the actual VHDL file that contains the memory unit.
 
 ### BISC Assembler
 TODO - Other group member offered to write it, but I might try to make my own at some point. If and when that is done, I'll upload it here.
